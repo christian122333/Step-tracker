@@ -11,6 +11,6 @@
 * Round robin scheduler
 
 #### Lab 3) Thread synchronication and scheduling for a personal fitness device
-*Timer-based real-time threads
-*Thread sleeping
-*Blocking semaphoresr with first come, first serve scheduler
+* Timer-based real-time threads
+* Thread sleeping
+* Blocking semaphores with first come, first serve scheduler
