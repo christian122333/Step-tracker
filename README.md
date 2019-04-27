@@ -14,3 +14,7 @@
 * Timer-based real-time threads
 * Thread sleeping
 * Blocking semaphores with first come, first serve scheduler
+
+#### Lab 4) Real-time operating system for a hand-held video game
+* Edge triggered interrupts
+* Blocking semaphores with priority scheduler
