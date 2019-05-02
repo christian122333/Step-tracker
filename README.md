@@ -18,3 +18,6 @@
 #### Lab 4) Real-time operating system for a hand-held video game
 * Edge triggered interrupts
 * Blocking semaphores with priority scheduler
+
+#### Lab 5) File system using the flash ROM of the microcontroller
+* Logging data onto flash/playback of data
