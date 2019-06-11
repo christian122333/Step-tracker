@@ -1,4 +1,4 @@
-# real-time_os
+# Step tracker
 #### Lab 1) Introduction to I/O using the BSP and debugging
 * Learn about Keil compiler and debugger
 * Understand what the MK-II boosterpack measures
