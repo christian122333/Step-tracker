@@ -1,3 +1,5 @@
+<img src="IMG_20190613_113736.jpg" width="520" height="400">
+
 # Step tracker
 #### Lab 1) Introduction to I/O using the BSP and debugging
 * Learn about Keil compiler and debugger
